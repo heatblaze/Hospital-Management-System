@@ -33,4 +33,4 @@ To run this project, you'll need:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/HospitalManagementSystem.git
+   git clone https://github.com/heatblaze/HospitalManagementSystem.git
